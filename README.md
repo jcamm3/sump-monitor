@@ -1,6 +1,6 @@
 # Sump Water Level Monitor
 
-Monitors sump water levels using the JSN-SR04T ultrasonic sensor. Reports measurements in both centimeters and inches. Integrates with Home Assistant and includes a built-in web interface.
+Monitors sump water levels using the JSN-SR04T ultrasonic sensor. Reports measurements in both centimeters and inches. Includes OLED display and web interface for real-time monitoring and calibration. Integrates with Home Assistant.
 
 ## Features
 
